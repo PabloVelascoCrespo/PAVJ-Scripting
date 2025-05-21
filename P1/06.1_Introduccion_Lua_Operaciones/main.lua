@@ -7,8 +7,8 @@ creature = drawCreature(layer, "griphon", 256, 256)
 function onUpdate(seconds)
     creaturePositionX, creaturePositionY = getPropPosition(creature)
     -- Empieza tu código
-    --creaturePositionX = creaturePositionX + 10 * seconds -- P1
-    creaturePositionX = creaturePositionX - 10 * seconds -- P2
+    creaturePositionX = creaturePositionX + 10 * seconds -- P1
+    --creaturePositionX = creaturePositionX - 10 * seconds -- P2
     -- Termina tu código
     setPropPosition(creature, creaturePositionX, creaturePositionY)
 end
