@@ -6,7 +6,7 @@ pointA_X = 0
 pointA_Y = 0
 pointB_X = 0
 pointB_Y = 0
-
+movementSpeed = 25
 creature = drawCreature(layer, "griphon", 256, 256)
 pointA = drawCreature(layer, "blue_pin", pointA_X, pointA_Y)
 pointB = drawCreature(layer, "green_pin", pointB_X, pointB_Y)
