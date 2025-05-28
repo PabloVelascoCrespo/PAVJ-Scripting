@@ -1,15 +1,19 @@
-require "vector"
-
 Enemigo  = {}
-Enemigo .__index = Enemigo 
 
 -- Constructor
 function Enemigo :new(texture, position, size, vida)
 	local e = setmetatable({}, self)
-    e.texture = texture
-    e.position = position
-    e.size = size
-    e.maxVida = vida
+	self.__index = self
+	if texture then
+		e.texture = texture	
+	end
+	if position then
+		e.position = position
+    end
+	if size then
+		e.size = size
+    end
+	e.maxVida = vida
     e.vida = vida
     e.muerto = false
 	e.image = nil

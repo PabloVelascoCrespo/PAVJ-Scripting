@@ -1,11 +1,5 @@
 require "vector"
-
-EnemigoHuidizo = setmetatable({}, {__index = Enemigo})
-EnemigoHuidizo.__index = EnemigoHuidizo
-
-function EnemigoHuidizo:new(texture, position, size, vida)
-    return Enemigo.new(self, texture, position, size, vida)
-end
+EnemigoHuidizo = Enemigo:new();
 
 function EnemigoHuidizo:recibirDanio()
     if self.muerto then return end
