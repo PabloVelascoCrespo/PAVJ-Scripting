@@ -1,0 +1,6 @@
+<map>
+    <criatura name="grifo" x="200" y="100" />
+    <criatura name="mago" x="100" y="200" />
+    <criatura name="peon" x="400" y="100" />
+    <criatura name="dragon" x="400" y="400" />
+</map>

@@ -10,6 +10,7 @@ pointB_Y = 0
 creature = drawCreature(layer, "griphon", 256, 256)
 pointA = drawCreature(layer, "blue_pin", pointA_X, pointA_Y)
 pointB = drawCreature(layer, "green_pin", pointB_X, pointB_Y)
+movementSpeed = 25
 
 mousePositionX = nil
 mousePositionY = nil
@@ -22,7 +23,7 @@ function onUpdate(seconds)
     
     local distance = math.sqrt(dirX * dirX + dirY * dirY)
     
-    if distance > 1 then
+    if distance > 0 then
         local normX = dirX / distance
         local normY = dirY / distance
 
