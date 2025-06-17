@@ -1,0 +1,60 @@
+﻿  main.cpp
+  libjpeg-static-mt-debug.lib(jerror.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  Finished generating code
+libjpeg-static-mt-debug.lib(jerror.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jerror.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcapimin.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcapimin.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcparam.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcparam.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcapistd.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcapistd.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcomapi.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcomapi.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jutils.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jutils.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jmemmgr.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jmemmgr.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcmarker.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcmarker.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcinit.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcinit.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jmemnobs.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jmemnobs.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcarith.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcarith.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcprepct.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcprepct.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcsample.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcsample.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcmainct.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcmainct.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcmaster.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcmaster.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jccoefct.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jccoefct.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jccolor.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jccolor.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jchuff.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jchuff.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jcdctmgr.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jcdctmgr.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jaricom.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jaricom.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jfdctint.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jfdctint.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jfdctfst.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jfdctfst.obj)' or at ''; linking object as if no debug info
+libjpeg-static-mt-debug.lib(jfdctflt.obj) : warning LNK4099: PDB '' was not found with 'libjpeg-static-mt-debug.lib(jfdctflt.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngwrite.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngwrite.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(png.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(png.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngwio.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngwio.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngrio.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngrio.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngset.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngset.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngread.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngread.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngrtran.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngrtran.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngget.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngget.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngerror.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngerror.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngwutil.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngwutil.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngtrans.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngtrans.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngwtran.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngwtran.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngmem.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngmem.obj)' or at ''; linking object as if no debug info
+libpng-static-mt-debug.lib(pngrutil.obj) : warning LNK4099: PDB '' was not found with 'libpng-static-mt-debug.lib(pngrutil.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(application.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(application.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(fontblowup.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(fontblowup.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(gameobject_ghost.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(gameobject_ghost.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(gameobject_moving.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(gameobject_moving.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(gameobject_pacman.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(gameobject_pacman.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(map.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(map.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(program.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(program.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(utils.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(utils.obj)' or at ''; linking object as if no debug info
+pacman_libd.lib(world.obj) : warning LNK4099: PDB '' was not found with 'pacman_libd.lib(world.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(adler32.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(adler32.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(crc32.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(crc32.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(deflate.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(deflate.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(inffast.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(inffast.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(inflate.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(inflate.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(inftrees.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(inftrees.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(trees.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(trees.obj)' or at ''; linking object as if no debug info
+zlib-static-mt-debug.lib(zutil.obj) : warning LNK4099: PDB '' was not found with 'zlib-static-mt-debug.lib(zutil.obj)' or at ''; linking object as if no debug info
+  pacman.vcxproj -> D:\Master\PAVJ-Scripting\P7\practicas\scripting\pacman\pacman\Debug\pacman.exe
